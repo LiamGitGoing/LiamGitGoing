@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41804800/122765027-5bb32700-d2a0-11eb-9804-5fe853e78863.gif")
+  <img src="https://github.com/LiamGitGoing/LiamGitGoing/assets/41804800/0e3eb554-ccaa-4120-acdc-3385b93a4557.gif")
 
 
 " />
