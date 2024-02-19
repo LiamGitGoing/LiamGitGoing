@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/LiamGitGoing/LiamGitGoing/assets/41804800/0e3eb554-ccaa-4120-acdc-3385b93a4557.gif")
+  <img src="https://github.com/LiamGitGoing/LiamGitGoing/assets/41804800/5f3a7096-92cc-455a-aebe-ff96a744fc45.gif" height="500"/>
 </p>
-
 
 <div>
 	<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
