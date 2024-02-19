@@ -1,9 +1,6 @@
 
 <p align="center">
   <img src="https://github.com/LiamGitGoing/LiamGitGoing/assets/41804800/0e3eb554-ccaa-4120-acdc-3385b93a4557.gif")
-
-
-" />
 </p>
 
 
