@@ -12,7 +12,7 @@
 	  <li> :herb: My last larger project was <a href="https://github.com/LiamGitGoing/tabibi">Tabibi</a></li>
 	  <li> :wrench: My current side project is <a href="http://liamgoing.com">my own website</a> </li>
 	  <li> :sunrise_over_mountains: My procrastination project is daydreaming about <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBoZm05d2J2cWQxYjdqcHYyaGh3d3dqaGkyc2IwN2V2ODN2bDI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SLXFqBMvvdKcU/giphy.gif/fullscreen">rock climbing</a> </li>
-	  <li> 📫 How to reach me: <a href="mailto: liamseangoing@gmail.com">liam.going@code.berlin</a> </li>
+	  <li> 📫 How to reach me: <a href="mailto: liamseangoing@gmail.com">liamseangoing@gmail.com</a> </li>
 	</ul>
 </div>
 <br>
