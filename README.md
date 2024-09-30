@@ -11,7 +11,7 @@
 	  <li> :hammer: I studied Mechanical Engineering Sciences at <a href="https://ethz.ch/en.html/">ETH Zürich</a> for five years before deciding to focus on Software Engineering
 	  <li> :herb: My last larger project was <a href="https://github.com/LiamGitGoing/tabibi">Tabibi</a></li>
 	  <li> :wrench: My current side project is <a href="http://liamgoing.com">my own website</a> </li>
-	  <li> :sunrise_over_mountains: My procrastination project is daydreaming about <a href="https://giphy.com/gifs/fail-jump-climbing-wall-SLXFqBMvvdKcU/fullscreen">rock climbing</a> </li>
+	  <li> :sunrise_over_mountains: My procrastination project is daydreaming about <a href="https://giphy.com/gifs/fail-jump-climbing-wall-SLXFqBMvvdKcU">rock climbing</a> </li>
 	  <li> 📫 How to reach me: <a href="mailto: liamseangoing@gmail.com">liamseangoing@gmail.com</a> </li>
 	</ul>
 </div>
